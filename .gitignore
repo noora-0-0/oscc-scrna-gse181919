@@ -1,0 +1,11 @@
+data/
+*.h5ad
+*.h5
+*.mtx.gz
+*.rds
+figures/*.png
+.ipynb_checkpoints/
+__pycache__/
+practice/
+*:Zone.Identifier
+oscc.ipynb

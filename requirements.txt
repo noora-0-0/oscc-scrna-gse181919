@@ -1,0 +1,12 @@
+scanpy
+anndata
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+scikit-image      # used by scanpy's Scrublet to pick the doublet threshold
+igraph            # Leiden clustering (flavor="igraph")
+harmonypy>=2.0    # 2.x returns Z_corr as cells x PCs
+jupyterlab
